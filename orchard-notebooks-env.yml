@@ -1,0 +1,6 @@
+name: orchard-notebooks-env
+dependencies:
+- python=3.6
+- numpy
+- matplotlib
+- pandas
