@@ -1,0 +1,9 @@
+NREL API key:
+
+XPkdD9vUSTb5DYKgKTbi5FhjlMbf3gelZQvFuews
+
+"
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://developer.nrel.gov/api/alt-fuel-stations/v1.json?fuel_type=E85,ELEC&state=CA&limit=2&api_key=XPkdD9vUSTb5DYKgKTbi5FhjlMbf3gelZQvFuews&format=JSON
+"
